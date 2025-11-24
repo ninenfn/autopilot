@@ -1,0 +1,1 @@
+[1m[31mERROR   [0m app.services.driver_service:driver_service.py:73 Error getting drivers: 'str' object has no attribute 'value'

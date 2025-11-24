@@ -1,0 +1,1 @@
+[31m[1mERROR   [0m app.services.driver_service:driver_service.py:73 Error getting drivers: DB query failed

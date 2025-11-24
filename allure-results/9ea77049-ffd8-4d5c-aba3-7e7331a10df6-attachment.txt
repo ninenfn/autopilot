@@ -1,0 +1,1 @@
+[31m[1mERROR   [0m app.services.driver_service:driver_service.py:53 Error creating driver: Driver with license number DUPLICATE123 already exists
